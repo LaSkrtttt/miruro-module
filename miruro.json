@@ -1,0 +1,10 @@
+{
+  "sourceName": "Miruro",
+  "iconUrl": "https://www.miruro.tv/favicon.ico",
+  "version": "1.0.0",
+  "baseUrl": "https://www.miruro.tv",
+  "scriptUrl": "https://raw.githubusercontent.com/LaSkrtttt/miruro-module/main/miruro.js",
+  "type": "anime/shows/movies",
+  "asyncJS": true,
+  "streamType": "hls"
+}
